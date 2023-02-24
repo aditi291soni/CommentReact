@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    padding: 40px;
+}
+.commentList{
+    width: 70%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
